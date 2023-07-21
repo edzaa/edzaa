@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/edzaa/edzaa/f1814bad14744a5ea687fcc354a6df95e72bfad0/banner.png)
+![Banner](https://raw.githubusercontent.com/edzaa/edzaa/f02c2ea0c6b73a1b0cf3aa55f6bc811227deb1b1/banner.png)
 
 # 🙆‍♂️ Edoni
 
