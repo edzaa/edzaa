@@ -1,14 +1,11 @@
 ![Banner](https://raw.githubusercontent.com/edzaa/edzaa/f02c2ea0c6b73a1b0cf3aa55f6bc811227deb1b1/banner.png)
 
 # 🙆‍♂️ Edoni
-
-Hello there 🖐.
-
 ```javascript
-console.log("Hello guys!");
+console.log("Hello there!");
 ```
 
-I'm full stack JS developer and graphic designer. I ❤️ testing my ideas in my free time.
+I'm a full stack JS developer and graphic designer. I ❤️ testing my ideas in my free time.
 
 ## Tech stack
 ### Setup
