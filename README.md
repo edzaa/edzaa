@@ -5,7 +5,7 @@
 console.log("Hello there!");
 ```
 
-I'm a full stack JS developer and graphic designer. I ❤️ testing my ideas in my free time.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=I'm+a+full+stack+JS+developer.;I'm+an+experienced+graphic+designer.;I+%E2%9D%A4%EF%B8%8F+testing+my+ideas+in+my+free+time.)
 
 ## Tech stack
 ### Setup
